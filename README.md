@@ -1,4 +1,4 @@
-## Screenshot
+## Nvim Config
 
 ![screenshot](https://github.com/Peyrzival/nvim-config/blob/main/screenshot.png)
 
